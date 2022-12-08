@@ -2,4 +2,5 @@ this is my file in the working directory
  
 i have switched to branch b1
 changes in b1
+merged b1 to master
 
